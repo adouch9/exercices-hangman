@@ -1,0 +1,8 @@
+{
+  "name": "exercices-hangman",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/adouch9/exercices-hangman.git",
+  "author": "adouch9 <mr.ouldmoussa@gmail.com>",
+  "license": "MIT"
+}
