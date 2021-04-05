@@ -4,5 +4,10 @@
   "main": "index.js",
   "repository": "https://github.com/adouch9/exercices-hangman.git",
   "author": "adouch9 <mr.ouldmoussa@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^4.1.0",
+    "crypto": "^1.0.1",
+    "readline-sync": "^1.4.10"
+  }
 }
